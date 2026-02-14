@@ -28,10 +28,10 @@ const CONFIG = {
   bloomRadius: 0.5,
 
   textLines: [
-    '14/2 Vui Vẻ nha bạn',
+    '14/2 Vui Vẻ',
     'Mãi Yêu <3',
-    "Happy Valentine’s",
-    'Love You Forever',
+    "Valentine’s Day",
+    'I Love You',
   ],
 
 
